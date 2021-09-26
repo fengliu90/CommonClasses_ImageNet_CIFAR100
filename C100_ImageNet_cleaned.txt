@@ -1,3 +1,4 @@
+CIFAR100_ID, class_names, ImageNet_ID
 0,beaver,337
 2,otter,360
 4,whale,147,148
